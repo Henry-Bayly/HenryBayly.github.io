@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biostatistics, Boston University, 2027 (expected)
+* B.A. in Mathematics, Boston College, 2022
 
-Work experience
+Dissertation
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2025 - Present (Advisor: Prasad Pratil)
+  * Advancing Ensemble Methods: I develop and evaluate novel ensemble algorithms that integrate class balancing, structured sampling, and principled weighting, with applications in healthcare and computational biology.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research experience
+======
+* June 2022 - Present: Graduate Research Assistant (Research Advisor: Mark Logue)
+  * Designed a machine learning pipeline (XGboost + SHAP) to optimize Alzheimer’s clinical trial enrollment with multimodal clinical and cognitive data, improving equity and interpretability of recruitment procedures
+  * Performed the first transcriptomic study of human BNST in PTSD, revealing novel differentially expressed genes via DESeq2 and limma
+  * Built a causal mediation framework linking SNPs, methylation, and PTSD severity using counterfactual modeling
+  * Conducted the largest Alzheimer’s GWAS meta-analysis to date, identifying novel loci through integration of multi-cohort summary statistics
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2021 - May 2022: Undergraduate Research Assistant
+  * Conducted research on probabilistic models for predicting structural changes in social networks
+  * Contributed to a publication presenting a streamlined proof of existence and uniqueness of maximum likelihood estimates (MLEs) in exponential random graph models (ERGMs)
+  * Supervisor: Kathryn Lindsey
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: R (tidyverse, dplyr, caret), Python (scikit-learn, pandas, PyTorch), SAS, Bash, SQL
+* Machine Learning: Supervised/unsupervised learning, ensemble methods, neural networks
+* Statistical Modeling: GLMs, mixed-effects models, survival analysis, causal inference
 
 Publications
 ======
@@ -59,6 +56,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

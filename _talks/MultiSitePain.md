@@ -1,0 +1,11 @@
+---
+title: "The Genetic Overlap Between Multisite Chronic Pain and PTSD Severity"
+collection: talks
+type: "Poster"
+permalink: /talks/MultiSitePain
+venue: "Behavioral Genetics Association 55th Annual Meeting"
+date: 2025-06-01
+location: "Atlanta, GA"
+---
+
+This study builds upon twin analyses which suggest that the co-occurrence between chronic pain and posttraumatic stress disorder (PTSD) can be partly explained by genetic factors. The sample consisted of 968 individuals of European ancestry (78% male, meanage = 43.62, SDage = 13.82) recruited into two Boston VA studies with identical assessment procedures, including assessment of PTSD severity by structured clinical interview. We used well-powered GWASs (>180,000) of multisite chronic pain (MCP) and PTSD severity (i.e., Total Score from PTSD Checklist) to compute PTSD and MCP polygenic scores (PGS). Genetic correlations between the two PGSs were small (r=0.24, SE=0.03). The MCP PGS significantly predicted PTSD severity in models covarying for ancestry substructure, sex, and age (β=0.084, p=0.007), but was no longer significant when PTSD PGS was added to the model, suggesting potential genetic confounding. Exploratory post-hoc FUMA analyses revealed enrichment: 46% of the lead SNPs from the MCP GWAS were nominally significant (p<0.05) in the PTSD GWAS, but 72% of these showed opposite directions of association. Fifty-three of the top-100 genes in the MCP GWAS were nominally significant in the PTSD severity GWAS, with three genes reaching genome-wide significance for PTSD severity (UBA7,RNF123,RBM6). Of the top-100 genes in the PTSD severity GWAS, 80 were also nominally significant in the MCP GWAS, including seven genome-wide significant (FOXP2,EXD3,MON1A,SEMA3F,GMPPB,AMIGO3,UBA7). Mendelian randomization indicated a positive significant bi-directional relationship, with larger effects detected for MCP on PTSD severity. These results further support that chronic pain and PTSD comorbidity may be partially due to genetic pleiotropy.

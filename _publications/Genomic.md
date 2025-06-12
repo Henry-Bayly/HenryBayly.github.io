@@ -1,0 +1,13 @@
+---
+title: "Genomic structural equation modeling reveals latent phenotypes in the human cortex with distinct genetic architecture"
+collection: publications
+category: manuscripts
+permalink: /publication/Genomic
+date: 2024-10-24
+venue: Nature - Translational Psychology
+paperurl: 'http://nature.com/articles/s41398-024-03152-y'
+citation: 'Morey, R.A., Zheng, Y., Bayly, H. et al. Genomic structural equation modeling reveals latent phenotypes in the human cortex with distinct genetic architecture. Transl Psychiatry 14, 451 (2024). https://doi.org/10.1038/s41398-024-03152-y'
+---
+
+Genetic contributions to human cortical structure manifest pervasive pleiotropy. This pleiotropy may be harnessed to identify unique genetically-informed parcellations of the cortex that are neurobiologically distinct from functional, cytoarchitectural, or other cortical parcellation schemes. We investigated genetic pleiotropy by applying genomic structural equation modeling (SEM) to map the genetic architecture of cortical surface area (SA) and cortical thickness (CT) for 34 brain regions recently reported in the ENIGMA cortical GWAS. Genomic SEM uses the empirical genetic covariance estimated from GWAS summary statistics with LD score regression (LDSC) to discover factors underlying genetic covariance, which we are denoting genetically informed brain networks (GIBNs). Genomic SEM can fit a multivariate GWAS from summary statistics for each of the GIBNs, which can subsequently be used for LD score regression (LDSC). We found the best-fitting model of cortical SA identified 6 GIBNs and CT identified 4 GIBNs, although sensitivity analyses indicated that other structures were plausible. The multivariate GWASs of the GIBNs identified 74 genome-wide significant (GWS) loci (p < 5 × 10−8), including many previously implicated in neuroimaging phenotypes, behavioral traits, and psychiatric conditions. LDSC of GIBN GWASs found that SA-derived GIBNs had a positive genetic correlation with bipolar disorder (BPD), and cannabis use disorder, indicating genetic predisposition to a larger SA in the specific GIBN is associated with greater genetic risk of these disorders. A negative genetic correlation was observed between attention deficit hyperactivity disorder (ADHD) and major depressive disorder (MDD). CT GIBNs displayed a negative genetic correlation with alcohol dependence. Even though we observed model instability in our application of genomic SEM to high-dimensional data, jointly modeling the genetic architecture of complex traits and investigating multivariate genetic links across neuroimaging phenotypes offers new insights into the genetics of cortical structure and relationships to psychopathology.
+
