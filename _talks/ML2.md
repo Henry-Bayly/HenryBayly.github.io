@@ -2,7 +2,7 @@
 title: "Learning Regional Uncertainty to Calibrate Predictive Models in Clinical Settings"
 collection: talks
 type: "Poster"
-permalink: /talks/ML1
+permalink: /talks/ML2
 venue: "Health Data Science Poster Session"
 date: 2025-09-03
 location: "Boston, MA, USA"
