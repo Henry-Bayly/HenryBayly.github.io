@@ -13,10 +13,6 @@ My research lies at the intersection of statistical methodology, machine learnin
 
 Outside of academia, I’ve become something of a reluctant runner turned enthusiast. I grew up playing basketball and dreaded running unless it was part of a drill. That all changed two years ago when I signed up for a mountain half marathon. The solitude, challenge, and serenity I found running through the mountains completely shifted my perspective. Since then, I’ve taken part in a handful of adventurous races and am currently training for a backyard ultra marathon this August!
 
-This website serves as a personal and academic hub—a space to share my research interests, publications, presentations, and the occasional blog post on statistics, machine learning, and data science. I’m passionate about staying current with modern ML techniques and hope to write about my experience navigating that landscape as an aspiring data scientist.
-
-Whether you're a fellow researcher, potential collaborator, student, or simply curious about how data can inform health science, I’m glad you’re here. Thanks for visiting!
-
 p.s. 
 
 This site is built using the Academic Pages template and hosted on GitHub Pages. The template is powered by Jekyll and GitHub, meaning all content is stored in structured markdown and YAML files, ensuring that the site is lightweight, version-controlled, and easy to update. This data-driven approach enables dynamic features like automatically generated CVs, talk maps, and publication lists—all maintained directly through commits to the GitHub repository.
