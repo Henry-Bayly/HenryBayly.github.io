@@ -10,7 +10,7 @@ redirect_from:
 Hi! My name is Henry Bayly. I am a 4th year PhD candidate in Biostatistics at Boston University. My research interests lie mainly in the holistic understanding of neurological disorders; particularly PTSD and Alzheimer's. I also work to develop methods that allow for the safe deployment of machine learning models in high-risk settings. Outside of my academic life, I really like to run. I recently ran my first ultra-marathon and will likely continue to run more. At some point I will add a tab that tracks races with some fun pictures. 
 
 <p align="center">
-  <img src="..assets/hiking.jpg" alt="Me hiking" width="400"/>
+  <img src="/assets/hiking.jpg" alt="Me hiking" width="400"/>
 </p>
 
 
