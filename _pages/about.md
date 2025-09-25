@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a Ph.D. candidate in Biostatistics at Boston University, where I specialize in developing interpretable and reliable machine learning methods for complex biomedical problems. I completed my undergraduate studies at Boston College in 2022, majoring in Mathematics and minoring in Computer Science. That fall, I began my doctoral training at BU.
-
-My research lies at the intersection of statistical methodology, machine learning, and neuroscience. Much of my applied work centers around neurocognitive disorders—particularly Alzheimer’s Disease and Post-Traumatic Stress Disorder—where I aim to build models that uncover meaningful patterns in high-dimensional, often imbalanced clinical data. I’m especially interested in how ensemble methods and interpretable ML can be tailored to support decision-making in sensitive biomedical contexts.
-
-Outside of academia, I’ve become something of a reluctant runner turned enthusiast. I grew up playing basketball and dreaded running unless it was part of a drill. That all changed two years ago when I signed up for a mountain half marathon. The solitude, challenge, and serenity I found running through the mountains completely shifted my perspective. Since then, I’ve taken part in a handful of adventurous races and am currently training for a backyard ultra marathon this August!
+Hi! My name is Henry Bayly. I am a 4th year PhD candidate in Biostatistics at Boston University. My research interests lie mainly in the holistic understanding of neurological disorders; particularly PTSD and Alzheimer's. I also work to develop methods that allow for the safe deployment of machine learning models in high-risk settings. Outside of my academic life, I really like to run. I recently ran my first ultra-marathon and will likely continue to run more. At some point I will add a tab that tracks races with some fun pictures. 
 
 p.s. 
 
