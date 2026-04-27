@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/ENAR1
 venue: "Eastern North American Region Spring Meeting"
 date: 2026-03-16
-location: "Indianapolic, IN, USA"
+location: "Indianapolis, IN, USA"
 ---
 
 The use of biomarkers to detect amyloid and tau proteins as a primary enrollment criteria in trials for Alzheimer’s Disease (AD) is becoming increasingly common. While these tests are valuable, biomarker driven enrollment potentially ignores information about current and future cognitive function, traditionally obtained from cognitive exams. We evaluated to what extent including neuropsychological exams can increase power in a prospective clinical trial. Our models were trained using the National Alzheimer’s Coordinating Center (NACC) Uniform Data Set (UDS) and tested using the Alzheimer's Disease Neuroimaging Initiative (ADNI) on cognitively normal and amyloid positive participants. We tested our hypothesis using both a one and three year window of transition to cognitive impairment. We found that the use of cognitive exams provides significant improvements in power. In particular, the sample size needed to achieve 80% power with a modest treatment effect decreases from 3,518 to 2,306 (55% change). Our results indicate that cognitive exams still hold invaluable information that biomarker tests cannot fully capture and therefore should continue to be used alongside biomarker tests. 
