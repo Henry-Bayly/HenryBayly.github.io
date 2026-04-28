@@ -17,14 +17,14 @@ Education
 Dissertation
 ======
 * May 2025 - Present (Advisor: Prasad Pratil)
-  * My dissertation focuses on adpating Machine Learning prediction methods to clinical and epidemiological study settings.
-  * I am tackling questions of interpretability, complex study designs, and small sample size prediction. 
+  * My dissertation focuses on adapting Machine Learning prediction methods to clinical and epidemiological study settings.
+  * I am tackling questions of interpretability, complex study designs, and small sample size prediction.
   
 Research experience
 ======
 * June 2022 - Present: Graduate Research Assistant (Research Advisors: Mark Logue and Yorghos Tripodis)
   * My research broadly focuses on neurological disorders, with an emphasis on disentangling the genetic architecture underlying different diseases and understanding how they are related.
-  * I am also interested in the use of prediction models to better inform sample selection in clinical trials, particulalry for Alzheimer's Disease.
+  * I am also interested in the use of prediction models to better inform sample selection in clinical trials, particularly for Alzheimer's Disease.
 
 * February 2021 - May 2022: Undergraduate Research Assistant
   * Conducted research on probabilistic models for predicting structural changes in social networks
