@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Researcher in Biostatistics, Machine Learning, and Biomedical Data Science"
+title: "Researcher in Biostatistics and Machine Learning"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! My name is Henry Bayly. I am a 4th year PhD candidate in Biostatistics at Boston University. My research interests lie mainly in the holistic understanding of neurological disorders; particularly PTSD and Alzheimer's. I also work to develop methods that allow for the safe deployment of machine learning models in high-risk settings. Outside of my academic life, I really like to run. I recently ran my first ultra-marathon and will likely continue to run more. At some point I will add a tab that tracks races with some fun pictures. 
+My name is Henry Bayly. I am a 4th year PhD candidate in Biostatistics at Boston University. My research broadly focuses on neurological disorders, with an emphasis on disentangling the genetic architecture underlying different diseases and understanding how they are related. I am also interested in the use of prediction models to better inform sample selection in clinical trials, particularly for Alzheimer’s Disease. My dissertation focuses on adapting Machine Learning prediction methods to clinical and epidemiological study settings. I am tackling questions of interpretability, complex study designs, and small sample size prediction. Outside of my academic life, I really like to run. I recently ran my first ultra-marathon and will likely continue to run more. At some point I will add a tab that tracks races with some fun pictures. 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Henry-Bayly/HenryBayly.github.io/136d29fadc615ee62fc3c8061187c30cce664bb7/assets/hiking.jpg" alt="Me hiking" width="400"/>
