@@ -6,7 +6,7 @@ permalink: /publication/Alz1.md
 date: 2026-05-01
 venue: Preprint
 paperurl: 'https://www.medrxiv.org/content/10.64898/2026.05.01.26352216v1'
-citation: 'Sherva, R., Bayly, H., Zhang, R., Harrington, K., Mez, J., Miller, M. W., Tsuang, D., Wolf, E., Zeng, Q., Le Guen, Y., Tejeda, M., VA Million Veteran Program, MVP Cognitive Decline and Dementia During Aging Working Group, Gaziano, J. M., Panizzon, M. S., Hauger, R. L., Merritt, V. C., Farrer, L. A., & Logue, M. W. (2026). A genome-wide association study of Alzheimer’s disease and dementia in a large multi-ancestry military cohort identifies many new dementia-associated loci. medRxiv. https://doi.org/10.64898/2026.05.01.26352216'
+citation: '*Sherva, R., *Bayly, H., Zhang, R., Harrington, K., Mez, J., Miller, M. W., Tsuang, D., Wolf, E., Zeng, Q., Le Guen, Y., Tejeda, M., VA Million Veteran Program, MVP Cognitive Decline and Dementia During Aging Working Group, Gaziano, J. M., Panizzon, M. S., Hauger, R. L., Merritt, V. C., Farrer, L. A., & Logue, M. W. (2026). A genome-wide association study of Alzheimer’s disease and dementia in a large multi-ancestry military cohort identifies many new dementia-associated loci. medRxiv. https://doi.org/10.64898/2026.05.01.26352216. * Contributed equally to the construction of the manuscript.'
 
 ---
 
